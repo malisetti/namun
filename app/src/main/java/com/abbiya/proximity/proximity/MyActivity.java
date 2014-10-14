@@ -28,7 +28,7 @@ public class MyActivity extends PX5RootActivity implements PX5EventListener {
             String px5apiKey = "ce2252632249957f61253e04bfcbdf32a6d79bca";
             String px5apiSecret = "2360c07042e49ab4187f731475b62c016bff78e0";
             String px5apiProjectId = "1412552073";
-            String gooleGCMProject = ""; //SET GOOGLE PROJECT NUMBER FOR GCM PUSH
+            String gooleGCMProject = "457604416822"; //SET GOOGLE PROJECT NUMBER FOR GCM PUSH
             this.px5NotificationManager = PX5NotificationManager.getInstance(this,
                     px5apiKey,
                     px5apiSecret,
